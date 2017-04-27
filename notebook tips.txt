@@ -1,0 +1,7 @@
+----Ipython notebook
+
+1. Block indent / unindent for editing
+tab / shift tab,
+Cmd+[ or ] on mac,
+Ctrl+[ or ] on windows and linux I suppose
+
